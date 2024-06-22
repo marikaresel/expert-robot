@@ -27,3 +27,5 @@ Regression Analysis:
  Built and evaluated to identify clusters of states with similar suicide impact levels.
  Time Series Analysis: 
  Decomposed time-series data to understand trends and seasonal patterns in suicide deaths.
+
+Tableau presentation: https://public.tableau.com/app/profile/marika.macawile/viz/AnalysisofSuicideRatesper100000PopulationData/Story1?publish=yes
