@@ -1,22 +1,20 @@
 # Python - Crude Suicide Rates Analysis 
 
-Introduction:
+# Introduction:
 The purpose of this project was to analyze suicide death data to uncover conditions most strongly associated with the deaths, analyze geographical variations and understand temporal trends and seasonal patterns.
 
-Skills:
+# Skills:
 Data Cleaning and Preprocessing
 Geographical Analysis
 Regression Analysis
 Cluster Analysis
 Time series Analysis
 
-Goals:
+# Goals:
 Identify conditions most strongly associated with suicide deaths. 
 Analyze geographical variations in suicide death rates.
 
-Approach and Process:
-
-Data Preparation: 
+# Data Preparation: 
  Cleaned and preprocessed data by handling missing values and standardizing formats.
  Merged suicide deaths data with crude rates of all ages and geographical information. 
 Geographical Analysis: 
